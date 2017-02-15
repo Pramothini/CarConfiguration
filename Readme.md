@@ -17,4 +17,4 @@ When testing, follow this order:<br/>
 4. upload the properties file path in console <br/>
 5. Available models appear in the browser. Select one and click on ok.<br/>
 6. Select options in Browser<br/>
-7. view selected options in Browser.<br/>
+7. view selected options in Browser.<br/> 
